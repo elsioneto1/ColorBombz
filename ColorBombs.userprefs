@@ -1,0 +1,17 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace />
+  <MonoDevelop.Ide.Workbench ActiveDocument="..\Assignment -1 FSM\Assignment -1 FSM\Assignment -1 FSM\Assets\Game\Scripts\Ghosts\FSM\Inky\FSM_Chase_Inky.cs">
+    <Files>
+      <File FileName="..\Assignment -1 FSM\Assignment -1 FSM\Assignment -1 FSM\Assets\Game\Scripts\Ghosts\FSM\Inky\FSM_Chase_Inky.cs" Line="131" Column="3" />
+      <File FileName="..\Assignment -1 FSM\Assignment -1 FSM\Assignment -1 FSM\Assets\Game\Scripts\Ghosts\FSM\Clyde\FSM_Chase_Clyde.cs" Line="16" Column="2" />
+      <File FileName="..\Assignment -1 FSM\Assignment -1 FSM\Assignment -1 FSM\Assets\Game\Scripts\Ghosts\FSM\FSM_Manager.cs" Line="55" Column="32" />
+      <File FileName="..\Assignment -1 FSM\Assignment -1 FSM\Assignment -1 FSM\Assets\Game\Scripts\Ghosts\FSM\Pinky\FSM_Chase_Pinky.cs" Line="113" Column="4" />
+      <File FileName="..\Assignment -1 FSM\Assignment -1 FSM\Assignment -1 FSM\Assets\Game\Scripts\Ghosts\FSM\Inky\FSM_Scatter_Inky.cs" Line="15" Column="27" />
+      <File FileName="..\Assignment -1 FSM\Assignment -1 FSM\Assignment -1 FSM\Assets\Game\Scripts\Ghosts\FSM\Blinky\FSM_Chase_Blinky.cs" Line="69" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
